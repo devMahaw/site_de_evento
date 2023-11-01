@@ -1,4 +1,4 @@
-# Site Coraline
+# Site de Evento
 
 Projeto de um site para um evento fictício.
 
