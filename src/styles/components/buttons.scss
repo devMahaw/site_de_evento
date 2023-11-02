@@ -9,6 +9,11 @@
     &-primary {
         color: #fff;
         background-color: #4F2AC3;
+        transition: 0.3s;
+
+        &:hover {
+            background-color: #5c41ac;
+        }
     }
 
     @media (max-width: 640px) {
