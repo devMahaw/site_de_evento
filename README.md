@@ -1,4 +1,4 @@
-# Site de Evento
+# Site de evento
 
 Projeto de um site para um evento fictício.
 
